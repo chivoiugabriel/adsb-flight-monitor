@@ -29,7 +29,3 @@ Aplicația interceptează pachetele de date emise de aeronave, le decodează și
 * `/web` - Interfața grafică și serverul web.
 * `/db` - Schema bazei de date și interogări SQL.
 
-## 🔧 Cum să rulezi proiectul
-1. Clonează acest repository:
-   ```bash
-   git clone [https://github.com/chivoiugabriel/adsb-flight-monitor.git](https://github.com/chivoiugabriel/adsb-flight-monitor.git)
